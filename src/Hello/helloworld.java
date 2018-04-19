@@ -6,12 +6,10 @@ public class helloworld {
 		
 		 for (int i=0;i<10;i++){
 			 System.out.println("Helo world "+i);
+			 System.out.println("This is Git Hub project");
+				System.out.println("Hi world");
 			 
 		 }
-		
-		System.out.println("This is Git Hub project");
-		System.out.println("Hi world");
-		
 	}
 	
 
